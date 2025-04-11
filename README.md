@@ -10,3 +10,5 @@ Ferramentas: Git, Visual Studio Code, Eclipse.
 E-mail: ana.karine06@aluno.ifce.edu.br
 
 Instagram: @karinezwq
+
+![Texto alternativo](https://media.tenor.com/eNVQ1fZNV4gAAAAM/billie-eilish-billie.gif)
