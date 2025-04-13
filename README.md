@@ -11,4 +11,4 @@ E-mail: ana.karine06@aluno.ifce.edu.br
 
 Instagram: [@karinezwq](https://www.instagram.com/karinezwq/)
 
-![Texto alternativo](https://media.tenor.com/eNVQ1fZNV4gAAAAM/billie-eilish-billie.gif)
+![Texto alternativo](https://media.tenor.com/eNVQ1fZNV4gAAAAM/billie-eilish-billie.)
