@@ -11,7 +11,7 @@ Ferramentas: Git, Visual Studio Code, Eclipse.
 
 [Projeto 2](https://github.com/akarinela/Projetos-HTML-Web): Projeto de Desenvolvimento WEB I usando a Linguagem de Marcação HTML.
 
-Projeto 3: Resolução de atividades em python visando ajudar os alunos que estão cursando Programação Estruturada PYTHON.
+[Projeto 3](https://github.com/akarinela/Projetos-PEST): Resolução de atividades em python de Programação Estruturada PYTHON.
 
 ## ✉️ Contato
 E-mail: ana.karine06@aluno.ifce.edu.br
