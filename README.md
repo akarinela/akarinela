@@ -8,7 +8,9 @@ Ferramentas: Git, Visual Studio Code, Eclipse.
 
 ## 🚀 Projetos Acadêmicos
 [Projeto 1](https://github.com/akarinela/DISCIPLINA-POO-2025.1): Projeto de Programação Orientada a Objetos usando a Linguagem de Programação JAVA.
+
 [Projeto 2](https://github.com/akarinela/Projetos-HTML-Web): Projeto de Desenvolvimento WEB I usando a Linguagem de Marcação HTML.
+
 Projeto 3: Resolução de atividades em python visando ajudar os alunos que estão cursando Programação Estruturada PYTHON.
 
 ## ✉️ Contato
