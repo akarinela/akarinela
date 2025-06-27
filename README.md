@@ -4,7 +4,7 @@ Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática e u
 ## 💻 Tecnologias
 Linguagens: Python, Java, JavaScript, C++, Sql.
 
-Ferramentas: Git, Visual Studio Code, Eclipse.
+Ferramentas: Git, Visual Studio Code, Eclipse, NetBeans.
 
 ## 🛠 Projetos Acadêmicos
 [Projeto 1](https://github.com/akarinela/DISCIPLINA-POO-2025.1): Projeto de Programação Orientada a Objetos usando a Linguagem de Programação JAVA.
