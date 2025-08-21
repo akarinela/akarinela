@@ -1,10 +1,5 @@
-# Oi, eu sou a Karine! 👋
+# Oi, eu sou a Karine! 
 Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática e uso o GitHub para armazenar e compartilhar meus projetos do curso.
-
-## 💻 Tecnologias
-Linguagens: Python, Java, JavaScript, C++, Sql.
-
-Ferramentas: Git, Visual Studio Code, Eclipse, NetBeans.
 
 ## 🛠 Projetos Acadêmicos
 [Projeto 1](https://github.com/akarinela/DISCIPLINA-POO-2025.1): Projeto de Programação Orientada a Objetos usando a Linguagem de Programação JAVA.
@@ -15,7 +10,11 @@ Ferramentas: Git, Visual Studio Code, Eclipse, NetBeans.
 
 [Projeto 4](https://github.com/akarinela/Projetos-PEST): Resolução de atividades em python de Programação Estruturada PYTHON.
 
-## 🛠️ Tecnologias e Ferramentas
+## 💻 Tecnologias
+Linguagens: Python, Java, JavaScript, C++, Sql.
+
+Ferramentas: Git, Visual Studio Code, Eclipse, NetBeans.
+
 <div align="center">
   <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
