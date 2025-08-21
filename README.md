@@ -36,9 +36,11 @@ Ferramentas: Git, Visual Studio Code, Eclipse, NetBeans.
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
+  
 [![Akarinela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akarinela&show_icons=true&theme=tokyonight)](https://github.com/akarinela)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akarinela&layout=compact&theme=tokyonight)](https://github.com/akarinela)
+
 </div>
 
 ## ✉️ Contato
