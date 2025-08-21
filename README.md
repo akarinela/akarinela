@@ -16,21 +16,30 @@ Ferramentas: Git, Visual Studio Code, Eclipse, NetBeans.
 [Projeto 4](https://github.com/akarinela/Projetos-PEST): Resolução de atividades em python de Programação Estruturada PYTHON.
 
 ## 🛠️ Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-</p>
+<div align="center">
+  <!-- Linguagens -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  
+  <!-- Ferramentas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</div>
+
 
 ---
 
 ## 📊 Estatísticas do GitHub
-
+<div align="center">
 [![Akarinela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akarinela&show_icons=true&theme=tokyonight)](https://github.com/akarinela)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akarinela&layout=compact&theme=tokyonight)](https://github.com/akarinela)
-
+</div>
 
 ## ✉️ Contato
 E-mail: ana.karine06@aluno.ifce.edu.br
