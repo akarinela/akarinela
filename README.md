@@ -15,6 +15,21 @@ Ferramentas: Git, Visual Studio Code, Eclipse, NetBeans.
 
 [Projeto 4](https://github.com/akarinela/Projetos-PEST): Resolução de atividades em python de Programação Estruturada PYTHON.
 
+## 🛠️ Tecnologias e Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+
+---
+
+## 📊 Estatísticas do GitHub
+
+[![Gabriel Freire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)](https://github.com/seu-usuario)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)](https://github.com/seu-usuario)
+
+
 ## ✉️ Contato
 E-mail: ana.karine06@aluno.ifce.edu.br
 
