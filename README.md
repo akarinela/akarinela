@@ -15,7 +15,8 @@ Linguagens: Python, Java, JavaScript, C++, Sql.
 
 Ferramentas: Git, Visual Studio Code, Eclipse, NetBeans.
 
-<!-- Linguagens -->
+<div align="center">
+  <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
@@ -33,18 +34,20 @@ Ferramentas: Git, Visual Studio Code, Eclipse, NetBeans.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" alt="Eclipse"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" alt="NetBeans"/>
-
+</div>
 
 ---
 
 ## 📊 Estatísticas do GitHub
+
 <div align="center">
-  
+
 [![Akarinela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akarinela&show_icons=true&theme=tokyonight)](https://github.com/akarinela)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akarinela&layout=compact&theme=tokyonight)](https://github.com/akarinela)
 
 </div>
+
 
 ## ✉️ Contato
 E-mail: ana.karine06@aluno.ifce.edu.br
